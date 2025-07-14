@@ -31,3 +31,9 @@ print(f"You are {age + 1} years old next year.")  # print the age next year
 height = input("How tall are you in meters? ")  # prompt for user input
 height = round(float(height), 2)  # convert the string to a float and round to 2 decimal places
 print(f"You are {height} meters tall.")  # print the height
+
+# functions 
+def greet(name):
+    print(f"Hello, {name}!") # greet the user with their name
+    
+greet(name)  # call the function with the name variable
