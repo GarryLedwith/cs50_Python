@@ -2,17 +2,17 @@
 
 ## Course Overview
 
-- Variables and Data Types  
-- Conditionals and Loops  
-- Functions  
-- File I/O  
-- Exception Handling  
-- Unit Testing  
-- Regular Expressions  
-- Object-Oriented Programming  
-- Libraries (e.g., `random`, `csv`, `re`, `requests`)
-- Command-line Applications  
-- Web APIs and JSON
+- [x]  Variables and Data Types  
+- [ ] Conditionals and Loops  
+- [ ] Functions  
+- [ ] File I/O  
+- [ ] Exception Handling  
+- [ ] Unit Testing  
+- [ ] Regular Expressions  
+- [ ] Object-Oriented Programming  
+- [ ] Libraries (e.g., `random`, `csv`, `re`, `requests`)
+- [ ] Command-line Applications  
+- [ ] Web APIs and JSON
 
 ## Goals
 
