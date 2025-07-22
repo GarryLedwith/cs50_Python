@@ -10,5 +10,5 @@ else:
 
 
 def is_even(n): 
-    return True if n % 2 == 0 else False # pythonic way to check if a number is even
-    
+    # return True if n % 2 == 0 else False # pythonic way to check if a number is even
+    return n % 2 == 0 # return True if n is even, False otherwise
