@@ -4,7 +4,7 @@
 
 - [x]  Variables and Data Types  
 - [x] Functions  
-- [ ] Conditionals and Loops  
+- [x] Conditionals and Loops  
 - [ ] Exception Handling  
 - [ ] Libraries (e.g., `random`, `csv`, `re`, `requests`)
 - [ ] Unit Testing  
